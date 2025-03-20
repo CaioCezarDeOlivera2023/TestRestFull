@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.test.backend.model.Produto;
 import com.test.backend.services.ProdutoService;
 
+	//Classe que ira fazer a Requisição dos endipoints
 
 	@RestController
 	@RequestMapping(value = "/api/produtos")
